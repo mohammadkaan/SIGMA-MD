@@ -111,8 +111,8 @@ module.exports = {
   //=============================[DEVELOPER'S VARIABLES DON'T TOUCH]=================
   afk:  process.env.AFK   || false,
   BRANCH: process.env.BRANCH   || 'Main',
-  HEROKU_APP_NAME: process.env.HEROKU_APP_NAME||"",
-  HEROKU_API_KEY: process.env.HEROKU_API_KEY||"",
+  HEROKU_APP_NAME: process.env.HEROKU_APP_NAME||"hello678",
+  HEROKU_API_KEY: process.env.HEROKU_API_KEY||"HRKU-0d776cf6-ee64-4a7f-80c8-0da7601c73de",
   caption :process.env.CAPTION || "*• ѕιgмα-м∂ мυℓтι-∂єνι¢є*\n*• ωнαтѕαρρ вσт* ",
   LANG: process.env.THEME || "SIGMA_MD",
   VERSION: process.env.VERSION || '𝚅.𝟷.𝟻.𝟹'
